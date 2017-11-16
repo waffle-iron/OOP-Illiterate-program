@@ -1,4 +1,5 @@
 # OOP-Illiterate-program
 
-Marc \n
+Marc
 Viresh
+Tim
